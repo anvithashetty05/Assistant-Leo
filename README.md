@@ -12,10 +12,10 @@ Leo is a simple **Python-based voice assistant** (like Alexa or Google Assistant
 
 ## 📂 Project Structure  
 
-├── main.py # Core voice assistant logic
-├── musicLibrary.py # Dictionary of songs with YouTube links
-├── client.py # Offline AI logic (rule-based responses)
-├── requirements.txt # Required Python dependencies
+├── main.py # Core voice assistant logic<br>
+├── musicLibrary.py # Dictionary of songs with YouTube links<br>
+├── client.py # Offline AI logic (rule-based responses)<br>
+├── requirements.txt # Required Python dependencies<br>
 
 
 ---
