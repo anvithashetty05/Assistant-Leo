@@ -22,11 +22,11 @@ Leo is a simple **Python-based voice assistant** (like Alexa or Google Assistant
 
 ## ⚡ Installation  
 
-1. Clone this repository:  
+1. Clone this repository:<br>  
    ```bash
    git clone https://github.com/<your-username>/Leo-Voice-Assistant.git
    cd Leo-Voice-Assistant
-2. Installing Dependencies:
+2. Installing Dependencies:<br>
    pip install -r requirements.txt
-3. Add your NewsAPI key in main.py:
+3. Add your NewsAPI key in main.py:<br>
    newsapi = "<Your Key Here>"
